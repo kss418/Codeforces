@@ -4,4 +4,4 @@ A / Rating : $\color{#8C8C8C}800$ / Implementation
 
 A / Rating : $\color{#8C8C8C}1100$ / Constructive
 
-A / Rating : $\color{#8C8C8C}1500$ / DP
+A / Rating : $\color{#85FFFF}1500$ / DP
