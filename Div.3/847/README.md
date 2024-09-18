@@ -4,7 +4,7 @@ A / Rating : $\color{#8C8C8C}800$ / Implementation, String
 
 B / Rating : $\color{#8C8C8C}800$ / Greedy
 
-C / Rating : $\color{#8C8C8C}1000$ / Bruteforce
+C / Rating : $\color{#8C8C8C}1000$ / Topological_Sorting
 
 D / Rating : $\color{#7DFE74}1200$ / Binary_Search
 
