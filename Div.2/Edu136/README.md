@@ -1,7 +1,7 @@
-https://codeforces.com/contest/1739
+# https://codeforces.com/contest/1739
 
 A / Rating : $\color{#8C8C8C}800$ / Implementation
 
-A / Rating : $\color{#8C8C8C}1100$ / Constructive
+B / Rating : $\color{#8C8C8C}1100$ / Constructive
 
-A / Rating : $\color{#85FFFF}1500$ / DP
+C / Rating : $\color{#85FFFF}1500$ / DP
