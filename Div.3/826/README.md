@@ -1,4 +1,4 @@
-https://codeforces.com/contest/1741
+# https://codeforces.com/contest/1741
 
 A / Rating : $\color{#8C8C8C}800$ / Implementation Case_Work
 
