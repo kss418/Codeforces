@@ -2,4 +2,4 @@
 
 A / Rating : $\color{#8C8C8C}800$ / Constructive, Sorting
 
-A / Rating : $\color{#8C8C8C}1100$ / Constructive
+A / Rating : $\color{#8C8C8C}1100$ / BFS
