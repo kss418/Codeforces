@@ -1,4 +1,4 @@
-https://codeforces.com/contest/1744
+# https://codeforces.com/contest/1744
 
 A / Rating : $\color{#8C8C8C}800$ / Implementation, Greeedy
 
