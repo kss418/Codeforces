@@ -1,4 +1,4 @@
-https://codeforces.com/contest/1729
+# https://codeforces.com/contest/1729
 
 A / Rating : $\color{#8C8C8C}800$ / Math
 
