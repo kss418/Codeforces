@@ -9,3 +9,5 @@ C / Rating : $\color{#8C8C8C}1000$ / Implementation
 D / Rating : $\color{#7DFE74}1200$ / Implementation, Sorting, Math
 
 E1 / Rating : $\color{#85FFFF}1500$ / Bruteforce, Number_Theory
+
+![My Image](https://github.com/kss418/Codeforces/blob/main/Images/828.png)
