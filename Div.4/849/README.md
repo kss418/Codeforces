@@ -6,7 +6,7 @@ B / Rating : $\color{#8C8C8C}800$ / Implementation
 
 C / Rating : $\color{#8C8C8C}800$ / Implementation
 
-D / Rating : $\color{#8C8C8C}1000$ / String
+D / Rating : $\color{#8C8C8C}1000$ / Strings
 
 E / Rating : $\color{#8C8C8C}1100$ / Greedy, Sorting
 
