@@ -1,6 +1,6 @@
 # https://codeforces.com/contest/1759
 
-A / Rating : $\color{#8C8C8C}800$ / Implementation, String
+A / Rating : $\color{#8C8C8C}800$ / Implementation, Strings
 
 B / Rating : $\color{#8C8C8C}800$ / Math
 
