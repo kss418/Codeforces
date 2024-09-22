@@ -6,4 +6,6 @@ B / Rating : $\color{#8C8C8C}-$ / Greedy
 
 C / Rating : $\color{#8C8C8C}-$ / Ad_Hoc, Interactive
 
+D / Rating : $\color{#8C8C8C}-$ / Greedy, Stack
+
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/973.png)
