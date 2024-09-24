@@ -12,4 +12,6 @@ E / Rating : $\color{#8C8C8C}-$ / Dijkstra
 
 F / Rating : $\color{#8C8C8C}-$ / Tree_DP, DFS
 
+H / Rating : $\color{#8C8C8C}-$ / Hashing, Bit_Mask, Greedy
+
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/974.png)
