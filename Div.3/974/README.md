@@ -8,7 +8,7 @@ C / Rating : $\color{#8C8C8C}1100$ / Binary_Search
 
 D / Rating : $\color{#85FFFF}1400$ / Ad_Hoc
 
-E / Rating : $\color{#8C8C8C}1800$ / Dijkstra
+E / Rating : $\color{#3162C7}1800$ / Dijkstra
 
 F / Rating : $\color{#8C8C8C}2000$ / Tree_DP, DFS
 
