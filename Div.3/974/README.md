@@ -10,8 +10,8 @@ D / Rating : $\color{#85FFFF}1400$ / Ad_Hoc
 
 E / Rating : $\color{#3162C7}1800$ / Dijkstra
 
-F / Rating : $\color{#8C8C8C}2000$ / Tree_DP, DFS
+F / Rating : $\color{#F361DC}2000$ / Tree_DP, DFS
 
-H / Rating : $\color{#8C8C8C}1900$ / Hashing, Bit_Mask, Greedy
+H / Rating : $\color{#F361DC}1900$ / Hashing, Bit_Mask, Greedy
 
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/974.png)
