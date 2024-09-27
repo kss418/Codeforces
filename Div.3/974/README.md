@@ -6,7 +6,7 @@ B / Rating : $\color{#8C8C8C}800$ / Math
 
 C / Rating : $\color{#8C8C8C}1100$ / Binary_Search
 
-D / Rating : $\color{#8C8C8C}1400$ / Ad_Hoc
+D / Rating : $\color{#85FFFF}1400$ / Ad_Hoc
 
 E / Rating : $\color{#8C8C8C}1800$ / Dijkstra
 
