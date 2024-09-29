@@ -1,6 +1,6 @@
 # https://codeforces.com/contest/2020 
 
-A / Rating : $\color{#8C8C8C}$ / Greedy, Math
+A / Rating : $\color{#8C8C8C}-$ / Greedy, Math
 
 B / Rating : $\color{#8C8C8C}-$ / Binary_Search, Math
 
