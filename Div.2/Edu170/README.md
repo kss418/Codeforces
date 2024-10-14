@@ -8,4 +8,4 @@ C / Rating : $\color{#8C8C8C}-$ / Implementation, Deque
 
 D / Rating : $\color{#8C8C8C}-$ / DP, Binary_Search
 
-![My Image](https://github.com/kss418/Codeforces/blob/main/Images/EDU170.png)
+![My Image](https://github.com/kss418/Codeforces/blob/main/Images/Edu170.png)
