@@ -11,3 +11,5 @@ D / Rating : $\color{#85FFFF}1400$ / Math, Combinatorics
 E / Rating : $\color{#85FFFF}1400$ / Ternary_Search
 
 F / Rating : $\color{#3162C7}1700$ / Prefix_Sum, Data_Structures
+
+G-1 / Rating : $\color{#F361DC}1900$ / Tree_Map, Tree_Set
