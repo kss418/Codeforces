@@ -8,4 +8,6 @@ C / Rating : $\color{#85FFFF}1500$ / Number_Theory
 
 D / Rating : $\color{#3162C7}1700$ / Greedy
 
+E / Rating : $\color{#3162C7}1800$ / DFS, Trees
+
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/969.png)
