@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/198
+# https://codeforces.com/contest/1988
 
 A / Rating : $\color{#8C8C8C}900$ / Priority_Queue
 
