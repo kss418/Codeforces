@@ -5,3 +5,5 @@ A / Rating : $\color{#8C8C8C}900$ / Greedy, Game_Theory
 B / Rating : $\color{#7DFE74}1200$ / Constructive
 
 C / Rating : $\color{#85FFFF}1500$ / Greedy
+
+D / Rating : $\color{#3162C7}1800$ / Greedy
