@@ -8,6 +8,8 @@ C / Rating : $\color{#8C8C8C}800$ / Binary_Search
 
 D / Rating : $\color{#8C8C8C}1100$ / DFS
 
+E / Rating : $\color{#85FFFF}1500$ / Prefix_Sum, Bruteforce
+
 F / Rating : $\color{#85FFFF}1400$ / Number_Theory, Combinatorics
 
 G / Rating : $\color{#3162C7}1800$ / Number_Theory, Binary_Search
