@@ -1,4 +1,6 @@
-# https://codeforces.com/contest/1988
+# https://codeforces.com/contest/198
+
+A / Rating : $\color{#8C8C8C}800$ / Prioirty_Queue
 
 B / Rating : $\color{#8C8C8C}900$ / Implementation
 
