@@ -1,6 +1,6 @@
 # https://codeforces.com/contest/198
 
-A / Rating : $\color{#8C8C8C}800$ / Priority_Queue
+A / Rating : $\color{#8C8C8C}900$ / Priority_Queue
 
 B / Rating : $\color{#8C8C8C}900$ / Implementation
 
