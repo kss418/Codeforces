@@ -1,11 +1,11 @@
 # https://codeforces.com/contest/2030
 
-A / Rating : $\color{#8C8C8C}-$ / Sorting, Greedy
+A / Rating : $\color{#8C8C8C}800$ / Sorting, Greedy
 
-B / Rating : $\color{#8C8C8C}-$ / Constructive
+B / Rating : $\color{#8C8C8C}800$ / Constructive
 
-C / Rating : $\color{#8C8C8C}-$ / Greedy, Game_Thoery
+C / Rating : $\color{#8C8C8C}1100$ / Greedy, Game_Thoery
 
-D / Rating : $\color{#8C8C8C}-$ / Tree_Set, Ad_Hoc
+D / Rating : $\color{#3162C7}1700$ / Tree_Set, Ad_Hoc
 
 ![My Image](https://github.com/kss418/Codeforces/blob/main/Images/979.png)
