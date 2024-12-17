@@ -10,4 +10,4 @@ D / Rating : $\color{#8C8C8C}-$ / Constructive, Greedy
 
 E / Rating : $\color{#8C8C8C}-$ / Math
 
-F / Rating : $\color{#8C8C8C}-$ / DFS, Graphs
+G-1 / Rating : $\color{#8C8C8C}-$ / DFS, Graphs
