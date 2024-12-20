@@ -5,3 +5,5 @@ A / Rating : $\color{#8C8C8C}-$ / Math
 B / Rating : $\color{#8C8C8C}-$ / Greedy
 
 C / Rating : $\color{#8C8C8C}-$ / Bruteforce
+
+D / Rating : $\color{#8C8C8C}-$ / Greedy, Binary_Search
