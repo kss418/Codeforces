@@ -8,3 +8,5 @@ C / Rating : $\color{#3162C7}1600$ / DP
 
 D / Rating : $\color{#3162C7}1600$ / DP, Ad_Hoc
 
+E / Rating : $\color{#F361DC}2000$ / Bruteforce, Sorting, Greedy, Bitmasks
+
