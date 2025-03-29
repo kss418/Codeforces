@@ -1,9 +1,9 @@
 # https://codeforces.com/contest/2004
 
-A / Rating : $\color{#8C8C8C}-$ / Case_Work, Math
+A / Rating : $\color{#8C8C8C}800$ / Case_Work, Math
 
-B / Rating : $\color{#8C8C8C}-$ / Greedy
+B / Rating : $\color{#7DFE74}1300$ / Greedy
 
-C / Rating : $\color{#8C8C8C}-$ / Segment_Tree
+C / Rating : $\color{#85FFFF}1500$ / Segment_Tree
 
-D / Rating : $\color{#8C8C8C}-$ / DP
+D / Rating : $\color{#F361DC}2000$ / DP
