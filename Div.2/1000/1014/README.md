@@ -6,3 +6,4 @@ B / Rating : $\color{#7DFE74}-$ / Ad_Hoc
 
 C / Rating : $\color{#3162C7}-$ / Ad_Hoc
 
+D / Rating : $\color{#3162C7}-$ / Ad_Hoc, Implementation
