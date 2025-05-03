@@ -1,9 +1,9 @@
 # https://codeforces.com/contest/2084
 
-A / Rating : $\color{#8C8C8C}-$ / Consturctiv, Math
+A / Rating : $\color{#8C8C8C}800$ / Consturctive, Math
 
-B / Rating : $\color{#8C8C8C}-$ / Number_Theory
+B / Rating : $\color{#8C8C8C}1100$ / Number_Theory
 
-C / Rating : $\color{#7DFE74}-$ / Ad_Hoc
+C / Rating : $\color{#85FFFF}1400$ / Ad_Hoc
 
-D / Rating : $\color{#F361DC}-$ / Ad_Hoc, Case_Work
+D / Rating : $\color{#3162C7}1600$ / Ad_Hoc, Case_Work
