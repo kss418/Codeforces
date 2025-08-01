@@ -1,13 +1,13 @@
 # https://codeforces.com/contest/2093
 
-A / Rating : $\color{#8C8C8C}-$ / Ad_Hoc
+A / Rating : $800$ / Ad_Hoc
 
-B / Rating : $\color{#8C8C8C}-$ / Greedy
+B / Rating : $900$ / Greedy
 
-C / Rating : $\color{#8C8C8C}-$ / Number_Thoery
+C / Rating : $1000$ / Number_Thoery
 
-D / Rating : $\color{#7DFE74}-$ / Divide_And_Conquer
+D / Rating : $1400$ / Divide_And_Conquer
 
-E / Rating : $\color{#7DFE74}-$ / Binary_Search
+E / Rating : $1500$ / Binary_Search
 
-F / Rating : $\color{#3162C7}-$ / Greedy, Sorting
+F / Rating : $1800$ / Greedy, Sorting
